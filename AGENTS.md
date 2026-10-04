@@ -10,9 +10,14 @@ non-goals. These agreements apply to work in Homebuyer Planner.
 
 - Do not write complete exercise solutions or edit application code merely
   because the learner asks for the next ticket, an explanation, or a review.
-- Explain concepts with small examples outside the current exercise, then give
-  requirements so the learner can implement the project code themselves.
-- When the learner is stuck, start with a focused hint. Give more help when asked.
+- Discovery first for concepts: introduce the problem and vocabulary, then pose
+  questions and experiments the learner researches. Do not reveal answers or
+  predicted results before the learner has attempted them.
+- Learning flow: short intro, research questions, standalone homework outside
+  this project, project ticket applying the concept, then review.
+- Step-by-step walkthroughs are fine for tooling and setup (Maven, Git, IDEs).
+- When the learner is stuck, use a hint ladder: "hint 1/2/3" each give a little
+  more. Give a full solution only on explicit request.
 - When reviewing, identify the mistake, explain why it matters, and let the
   learner correct it. Distinguish correctness issues from optional preferences.
 - Direct implementation is appropriate when the learner explicitly requests it;
@@ -26,7 +31,8 @@ non-goals. These agreements apply to work in Homebuyer Planner.
 - Each ticket should state the problem, what will be learned, why the approach
   fits, implementation requirements, and how to verify the result.
 - Define new vocabulary in plain English before relying on it. Explain the
-  problem a concept solves, when to use it, and a concrete example.
+  problem a concept solves and when to use it; examples must not give away
+  homework or ticket answers.
 - Include a few understanding questions. Encourage answering from memory first,
   then using resources to fill gaps. Revisit concepts in later exercises.
 - Offer focused supporting reading when useful. The learner uses Head First
